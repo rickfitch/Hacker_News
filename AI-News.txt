@@ -1,0 +1,27 @@
+# Hacker News Daily Briefing: AI, LLMs & Machine Learning
+Date: October 11, 2026
+
+1. Terence Tao: Math 2.0
+URL: https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf
+Discussion: https://news.ycombinator.com/item?id=50043026
+Summary: Renowned mathematician Terence Tao explores how AI reasoning systems and formal proof assistants are fundamentally reshaping mathematical discovery and validation. He addresses the cultural and institutional shifts mathematicians must navigate as generative AI begins producing novel proofs without traditional intuitive human explanations.
+
+2. I'm Sorry, But You Still Have to Think
+URL: https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/
+Discussion: https://news.ycombinator.com/item?id=50043689
+Summary: This article addresses the growing reliance on LLM code generation and autonomous coding agents, cautioning that tactical code translation cannot replace human architectural judgment. It stresses that failing to critically understand AI-generated code introduces insidious bugs, review fatigue, and severe technical debt.
+
+3. Show HN: BetterWispr – Free, Open-Source Dictation for Mac
+URL: https://betterwispr.com/
+Discussion: https://news.ycombinator.com/item?id=50042333
+Summary: BetterWispr is a new open-source macOS dictation tool that leverages state-of-the-art speech-to-text machine learning models like Whisper and Parakeet v3 for private, on-device transcription. The project focuses on eliminating Bluetooth input latency while providing a seamless, privacy-preserving alternative to proprietary voice assistants.
+
+4. Build Your Own Decision Model
+URL: https://nishtahir.com/build-your-own-decision-model/
+Discussion: https://news.ycombinator.com/item?id=50037949
+Summary: This technical guide explains how developers can construct lightweight machine learning classifiers for deterministic application logic rather than resorting to heavy chat LLMs. It contrasts traditional classification pipelines with zero-shot models, demonstrating how tailored small models deliver superior latency and cost efficiency.
+
+5. Retrofitting Language Models to Operate Over Bytes
+URL: https://www.nature.com/articles/s41586-026-11111-4
+Discussion: https://news.ycombinator.com/item?id=50001234
+Summary: Published in Nature, this research demonstrates techniques for modifying pre-trained large language models to ingest raw byte sequences directly rather than relying on subword tokenizers like BPE. Moving to token-free byte-level processing resolves common tokenizer pathologies and significantly improves performance across non-standard character sets and low-resource languages.
